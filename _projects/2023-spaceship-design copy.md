@@ -18,7 +18,7 @@ The material used was structural steel (E=30e6 psi)
 
 3.Diagram communicating how loads and boundary conditions were applied to your FEM model.
 
-![Alt text](assets/images/3.1.png)
+![Alt text](/assets/images/3.1.png)
 
 Boundary conditions were applied to the blue-highlighted faces of our FEM model. By setting displacement to zero in each direction, we were able to fix those faces of the drive.
 

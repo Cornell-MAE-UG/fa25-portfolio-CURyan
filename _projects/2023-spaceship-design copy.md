@@ -11,6 +11,7 @@ Results
 1.Image(s) of CAD model. Must show all key dimensions.
 
 ![Alt text](assets/images/1.png)
+![Profile Picture]({{ "assets/images/1.png" | relative_url }}){: class="profile-image"}
 
 2.Describe material used and its relevant mechanical properties.
 

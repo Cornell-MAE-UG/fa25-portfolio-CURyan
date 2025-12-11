@@ -59,8 +59,11 @@ A 30 lb load (600/L) was applied in the +x direction on the highlighted blue fac
 **6.Summarize results from FEM calculation showing maximum normal stress (anywhere), load point deflection, strains at the strain gauge locations.**
 
 Max normal stress: 29359 psi
+
 Load point deflection: 0.169 in
+
 Strain at gauge 1: 178.6 microstrains
+
 Strain at gauge 2: -178.9 microstrains
 
 
@@ -78,7 +81,11 @@ GF=2, the torque wrench sensitivity at the rated torque of 600 in-lbf is approxi
 **8.Strain gauge selected (give type and dimensions). Note that design must physically have enough space to bond the gauges.**
 
 Type: linear, single-axis foil strain gauge for bending
+
 Resistance: 350 Ω, gauge factor GF ≈ 2.0
+
 Active grid length: ~3 mm ≈ 0.12 in
+
 Active grid width: ~2 mm ≈ 0.08 in
+
 Overall backing size: ~5 mm × 3 mm ≈ 0.20 in × 0.12 in

@@ -6,8 +6,6 @@ technologies: [Screwdriver, Hammer, Scissors, Zoom Video]
 image: /assets/images/FMD1.png
 ---
 
-Results
-
 **Overview**
 
 ![Profile Picture]({{ "assets/images/FMD2.png" | relative_url }}){: class="profile-image"}

@@ -21,8 +21,6 @@ Overall, our final design was not meant to be the most complex robot in the comp
 
 ![Profile Picture]({{ "assets/images/proto.JPG" | relative_url }}){: class="profile-image"}
 
-![Profile Picture]({{ "assets/images/wheels.JPG" | relative_url }}){: class="profile-image"}
-
 ![Profile Picture]({{ "assets/images/under.JPG" | relative_url }}){: class="profile-image"}
 
 ![Profile Picture]({{ "assets/images/cutter.JPG" | relative_url }}){: class="profile-image"}
